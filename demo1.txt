@@ -1,2 +1,2 @@
 new commit for test branch
-git stash check
+git stash check remote
