@@ -1,3 +1,5 @@
 new commit for test branch
 
-git statsh commit
+=======
+git stash check remote
+>>>>>>> 7e651ea2973286de89f59f62d1bc40d135e68f4b
